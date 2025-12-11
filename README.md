@@ -1,2 +1,1 @@
-# My-website
-web
+Personal Website Project using HTML, CSS, JS, jQuery and JSON.
